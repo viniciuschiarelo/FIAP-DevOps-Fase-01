@@ -109,4 +109,10 @@ Abaixo estão as pastas contendo os resumos e documentações de cada disciplina
 
 ---
 
+### Certificado 1ª Fase
+
+[![Certificado 1ª Fase](./assets/gerar_certificado_fase.png)](https://on.fiap.com.br/local/certificados/gerar_certificado_fase.php?userid=1060417&courseid=16493)
+
+--- 
+
 *Junho de 2026 — Pós-Tech DevOps*
