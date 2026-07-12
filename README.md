@@ -102,10 +102,10 @@ Abaixo estão as pastas contendo os resumos e documentações de cada disciplina
 
 ## Integrantes — Grupo 25
 
-* **Thiago Souza** - RM375311
-* **Larissa Nunes** - RM367056
-* **Nicholas Lima** - RM374429
-* **Vinicius Chiarelo** - RM374954
+* **Thiago Souza**
+* **Larissa Nunes**
+* **Nicholas Lima**
+* **Vinicius Chiarelo**
 
 ---
 
