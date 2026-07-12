@@ -3,7 +3,7 @@
   <h3>Tech Challenge - Fase 1</h3>
 </div><br>
 
-# 🚀 ToggleMaster — Tech Challenge (Fase 1) | Pós-Tech DevOps
+# ToggleMaster — Tech Challenge (Fase 1) | Pós-Tech DevOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -15,7 +15,7 @@
 
 [Desafio](https://github.com/viniciuschiarelo/FIAP-DevOps-Fase-01/blob/main/desafio.md)
 
-## 💻 Sobre o Projeto
+## Sobre o Projeto
 
 O **ToggleMaster** é uma iniciativa de consultoria interna desenvolvida para a *DevOps Solutions Inc.*, focada na criação de uma plataforma centralizada para gerenciamento de **Feature Flags (Feature Toggles)**. O objetivo principal do sistema é viabilizar o lançamento controlado de novas funcionalidades por parte das equipes de desenvolvimento (permitindo a liberação para usuários específicos ou a desativação ágil em cenários de falhas), mitigando a necessidade de novos deploys na infraestrutura.
 
@@ -23,7 +23,7 @@ Este repositório compreende a **Fase 1** do projeto: a implantação de um **MV
 
 ---
 
-## 🏛️ Cultura DevOps e Arquitetura de Aplicações
+## Cultura DevOps e Arquitetura de Aplicações
 
 ### Análise Arquitetural: O Monolito no MVP
 O ToggleMaster foi concebido inicialmente sob uma arquitetura monolítica, centralizando toda a sua estrutura lógica, regras de negócio e persistência em uma única base de código coesa. A aplicação opera como uma unidade funcional indivisível, compartilhando o mesmo banco de dados relacional e demandando uma nova compilação e implantação integral a cada modificação realizada.
@@ -51,7 +51,7 @@ A maturidade técnica da aplicação foi avaliada com base nas diretrizes estabe
 
 ---
 
-## 🏗️ Arquitetura da Infraestrutura (AWS)
+## Arquitetura da Infraestrutura (AWS)
 
 Para assegurar o isolamento, a segurança de rede e a estabilidade inicial da API, o desenho da infraestrutura seguiu as práticas recomendadas de topologia de redes na AWS:
 
@@ -70,7 +70,7 @@ Para assegurar o isolamento, a segurança de rede e a estabilidade inicial da AP
 
 ---
 
-## 🛠️ AWS Prático: Desafios de Implantação e Soluções
+## AWS Prático: Desafios de Implantação e Soluções
 
 Durante o provisionamento manual e o deploy da aplicação no ambiente de nuvem, foram documentados desafios operacionais superados através das seguintes correções técnicas:
 
@@ -80,7 +80,7 @@ Durante o provisionamento manual e o deploy da aplicação no ambiente de nuvem,
 
 ---
 
-## 📺 Demonstração Prática
+## Demonstração Prática
 
 O ciclo completo de execução da aplicação local, validação de regras, infraestrutura implantada na AWS e acesso à API integrada ao banco de dados pode ser visualizado no vídeo de demonstração:
 
@@ -88,7 +88,7 @@ O ciclo completo de execução da aplicação local, validação de regras, infr
 
 ---
 
-## 📚 Documentações e Módulos de Estudo
+## Documentações e Módulos de Estudo
 
 Abaixo estão as pastas contendo os resumos e documentações de cada disciplina estudada nesta fase:
 
@@ -100,7 +100,7 @@ Abaixo estão as pastas contendo os resumos e documentações de cada disciplina
 
 ---
 
-## 👥 Integrantes — Grupo 25
+## Integrantes — Grupo 25
 
 * **Thiago Souza** - RM375311
 * **Larissa Nunes** - RM367056
