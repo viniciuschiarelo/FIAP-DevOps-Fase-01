@@ -3,7 +3,7 @@
   <h3>Tech Challenge - Fase 1</h3>
 </div><br>
 
-# ToggleMaster — Tech Challenge Fase 2 (FIAP Pós-Tech)
+# ToggleMaster — Tech Challenge (Fase 1) | Pós-Tech DevOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
